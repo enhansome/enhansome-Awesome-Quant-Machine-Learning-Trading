@@ -90,7 +90,7 @@
             "last_commit": "2021-01-17T09:07:36Z",
             "owner": "achillesrasquinha",
             "repo": "bulbea",
-            "stars": 2321
+            "stars": 2320
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2020-06-18T05:37:24Z",
             "owner": "VivekPa",
             "repo": "AIAlpha",
-            "stars": 1950
+            "stars": 1951
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2021-10-09T19:16:40Z",
             "owner": "ZhengyaoJiang",
             "repo": "PGPortfolio",
-            "stars": 1849
+            "stars": 1848
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2018-06-26T09:22:29Z",
             "owner": "filangelos",
             "repo": "qtrader",
-            "stars": 480
+            "stars": 478
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:55:53.438Z",
+    "last_updated": "2026-08-13T08:39:22.713Z",
     "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
     "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
     "enhanced_repository": "enhansome/enhansome-Awesome-Quant-Machine-Learning-Trading",
