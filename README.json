@@ -1,0 +1,492 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":star: TradingGym [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-11T11:53:21Z",
+            "owner": "Yvictor",
+            "repo": "TradingGym",
+            "stars": 1908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btym [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-28T22:13:14Z",
+            "owner": "Kismuz",
+            "repo": "btgym",
+            "stars": 1034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trading-Gym [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-02T22:23:17Z",
+            "owner": "thedimlebowski",
+            "repo": "Trading-Gym",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TradzQAI [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-21T21:28:48Z",
+            "owner": "kkuette",
+            "repo": "TradzQAI",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Reinforcement Learning environments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-27T20:48:46Z",
+            "owner": "rorysroes",
+            "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
+            "stars": 2326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-17T09:07:36Z",
+            "owner": "achillesrasquinha",
+            "repo": "bulbea",
+            "stars": 2321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MachineLearningStocks - Using python and scikit-learn to make stock predictions [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T22:43:10Z",
+            "owner": "robertmartin8",
+            "repo": "MachineLearningStocks",
+            "stars": 1956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlphaAI - Use unsupervised and supervised learning to predict stocks [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-18T05:37:24Z",
+            "owner": "VivekPa",
+            "repo": "AIAlpha",
+            "stars": 1950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackArbsCEO - Advances in Financial Machine Learning Exercises [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-08T01:39:23Z",
+            "owner": "BlackArbsCEO",
+            "repo": "Adv_Fin_ML_Exercises",
+            "stars": 1948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PGPortfolio - source code of \"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem\" [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-09T19:16:40Z",
+            "owner": "ZhengyaoJiang",
+            "repo": "PGPortfolio",
+            "stars": 1849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep_trader - Use reinforcement learning on stock market and agent tries to learn trading [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-22T14:35:51Z",
+            "owner": "deependersingla",
+            "repo": "deep_trader",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-Trading - Algorithmic trading with deep learning experiments [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OpenEdge ABL",
+            "last_commit": "2018-08-07T15:24:46Z",
+            "owner": "Rachnog",
+            "repo": "Deep-Trading",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stock_market_reinforcement_learning - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-12-23T07:34:59Z",
+            "owner": "kh-kim",
+            "repo": "stock_market_reinforcement_learning",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-07T09:12:10Z",
+            "owner": "samre12",
+            "repo": "deep-trading-agent",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuralNetworkStocks - Using Python and keras to make stock predictions [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-03T23:26:00Z",
+            "owner": "VivekPa",
+            "repo": "IntroNeuralNetworks",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-30T01:20:39Z",
+            "owner": "NourozR",
+            "repo": "Stock-Price-Prediction-LSTM",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-30T01:20:39Z",
+            "owner": "NourozR",
+            "repo": "Stock-Price-Prediction-LSTM",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QLearning_Trading - Learning to trade under the reinforcement learning framework [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-10-15T02:36:20Z",
+            "owner": "ucaiado",
+            "repo": "QLearning_Trading",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepstock - Technical experimentations to beat the stock market using deep learning [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-04T08:37:30Z",
+            "owner": "keon",
+            "repo": "deepstock",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qtrader - Reinforcement Learning for Portfolio Management [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-06-26T09:22:29Z",
+            "owner": "filangelos",
+            "repo": "qtrader",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timestocome - Test-stock-prediction-algorithms [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-28T18:53:07Z",
+            "owner": "timestocome",
+            "repo": "Test-stock-prediction-algorithms",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multidimensional-LSTM-BitCoin-Time-Series - Using multidimensional LSTM neural networks to create a forecast for Bitcoin price [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-07-15T16:00:37Z",
+            "owner": "jaungiers",
+            "repo": "Multidimensional-LSTM-BitCoin-Time-Series",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-18T16:56:38Z",
+            "owner": "shenyichen105",
+            "repo": "Deep-Reinforcement-Learning-in-Stock-Trading",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep-algotrading - deep learning techniques from regression to LSTM using financial data [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-10T19:15:39Z",
+            "owner": "LiamConnell",
+            "repo": "deep-algotrading",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marketneutral - pairs trading with ML [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-09-27T20:42:15Z",
+            "owner": "marketneutral",
+            "repo": "pairs-trading-with-ML",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DQN - Reinforcement Learning for finance [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-07T08:12:02Z",
+            "owner": "jjakimoto",
+            "repo": "DQN",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-27T02:57:50Z",
+            "owner": "deependersingla",
+            "repo": "deep_portfolio",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SravB - Algorithmic trading using machine learning [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-27T04:22:07Z",
+            "owner": "SravB",
+            "repo": "Algorithmic-Trading",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thesis - Reinforcement Learning for Automated Trading [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2016-12-19T21:39:22Z",
+            "owner": "pnecchi",
+            "repo": "Thesis",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T17:43:33Z",
+            "owner": "squidKid-deluxe",
+            "repo": "QTradeX-Algo-Trading-SDK",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flow - High frequency AI based algorithmic trading module [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-14T16:02:06Z",
+            "owner": "yazanobeidi",
+            "repo": "flow",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stockPredictor - Predict stock movement with Machine Learning and Deep Learning algorithms [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-13T04:39:47Z",
+            "owner": "Nazanin1369",
+            "repo": "stockPredictor",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-Trading - Algorithmic Trading using RNN [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-06-23T11:32:57Z",
+            "owner": "ha2emnomer",
+            "repo": "Deep-Trading",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Day-Trading-Application - Use deep learning to make accurate future stock return predictions [Link]",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Code"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:55:53.438Z",
+    "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
+    "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Quant-Machine-Learning-Trading",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Quant-Machine-Learning-Trading with stars"
+  }
+}
