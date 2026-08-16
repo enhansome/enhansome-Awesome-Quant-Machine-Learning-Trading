@@ -76,7 +76,7 @@
             "last_commit": "2022-08-27T20:48:46Z",
             "owner": "rorysroes",
             "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-            "stars": 2325
+            "stars": 2326
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2022-12-08T01:39:23Z",
             "owner": "BlackArbsCEO",
             "repo": "Adv_Fin_ML_Exercises",
-            "stars": 1948
+            "stars": 1949
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2019-08-03T23:26:00Z",
             "owner": "VivekPa",
             "repo": "IntroNeuralNetworks",
-            "stars": 777
+            "stars": 778
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2017-07-15T16:00:37Z",
             "owner": "jaungiers",
             "repo": "Multidimensional-LSTM-BitCoin-Time-Series",
-            "stars": 339
+            "stars": 340
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:37:37.309Z",
+    "last_updated": "2026-08-16T07:39:09.374Z",
     "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
     "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
     "enhanced_repository": "enhansome/enhansome-Awesome-Quant-Machine-Learning-Trading",
