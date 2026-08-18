@@ -14,7 +14,7 @@
             "last_commit": "2024-02-11T11:53:21Z",
             "owner": "Yvictor",
             "repo": "TradingGym",
-            "stars": 1908
+            "stars": 1910
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2022-08-27T20:48:46Z",
             "owner": "rorysroes",
             "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-            "stars": 2326
+            "stars": 2327
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-06-17T22:43:10Z",
             "owner": "robertmartin8",
             "repo": "MachineLearningStocks",
-            "stars": 1958
+            "stars": 1959
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2022-12-08T01:39:23Z",
             "owner": "BlackArbsCEO",
             "repo": "Adv_Fin_ML_Exercises",
-            "stars": 1950
+            "stars": 1951
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-07-30T17:43:33Z",
             "owner": "squidKid-deluxe",
             "repo": "QTradeX-Algo-Trading-SDK",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:57:25.709Z",
+    "last_updated": "2026-08-18T07:48:17.101Z",
     "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
     "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
     "enhanced_repository": "enhansome/enhansome-Awesome-Quant-Machine-Learning-Trading",
