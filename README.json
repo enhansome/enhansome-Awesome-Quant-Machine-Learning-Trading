@@ -84,7 +84,7 @@
                 "last_commit": "2022-08-27T20:48:46Z",
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2326
+                "stars": 2324
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2021-01-17T09:07:36Z",
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2321
+                "stars": 2320
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2024-06-17T22:43:10Z",
                 "owner": "robertmartin8",
                 "repo": "MachineLearningStocks",
-                "stars": 1959
+                "stars": 1960
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2022-12-08T01:39:23Z",
                 "owner": "BlackArbsCEO",
                 "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1951
+                "stars": 1952
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2018-01-22T14:35:51Z",
                 "owner": "deependersingla",
                 "repo": "deep_trader",
-                "stars": 1500
+                "stars": 1499
               }
             },
             {
@@ -194,21 +194,6 @@
             },
             {
               "node_type": "item",
-              "title": "Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [Link]",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 104375957,
-                "language": "Python",
-                "last_commit": "2018-06-07T09:12:10Z",
-                "owner": "samre12",
-                "repo": "deep-trading-agent",
-                "stars": 796
-              }
-            },
-            {
-              "node_type": "item",
               "title": "stock_market_reinforcement_learning - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient [Link]",
               "description": null,
               "children": [],
@@ -224,6 +209,21 @@
             },
             {
               "node_type": "item",
+              "title": "Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [Link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104375957,
+                "language": "Python",
+                "last_commit": "2018-06-07T09:12:10Z",
+                "owner": "samre12",
+                "repo": "deep-trading-agent",
+                "stars": 795
+              }
+            },
+            {
+              "node_type": "item",
               "title": "NeuralNetworkStocks - Using Python and keras to make stock predictions [Link]",
               "description": null,
               "children": [],
@@ -234,7 +234,7 @@
                 "last_commit": "2019-08-03T23:26:00Z",
                 "owner": "VivekPa",
                 "repo": "IntroNeuralNetworks",
-                "stars": 778
+                "stars": 779
               }
             },
             {
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:50:15.082Z",
+    "last_updated": "2026-08-21T07:51:27.386Z",
     "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
     "original_repository_id": 156283359,
     "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
