@@ -204,7 +204,7 @@
                 "last_commit": "2016-12-23T07:34:59Z",
                 "owner": "kh-kim",
                 "repo": "stock_market_reinforcement_learning",
-                "stars": 795
+                "stars": 796
               }
             },
             {
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:38:51.053Z",
+    "last_updated": "2026-08-23T07:41:18.166Z",
     "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
     "original_repository_id": 156283359,
     "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",

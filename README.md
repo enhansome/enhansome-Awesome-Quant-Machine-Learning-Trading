@@ -141,7 +141,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * PGPortfolio - source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" [\[Link\]](https://github.com/ZhengyaoJiang/PGPortfolio) ⭐ 1,848 | 🐛 56 | 🌐 Python | 📅 2021-10-09
 * deep\_trader - Use reinforcement learning on stock market and agent tries to learn trading [\[Link\]](https://github.com/deependersingla/deep_trader) ⭐ 1,499 | 🐛 11 | 🌐 Python | 📅 2018-01-22
 * Deep-Trading - Algorithmic trading with deep learning experiments [\[Link\]](https://github.com/Rachnog/Deep-Trading) ⭐ 1,462 | 🐛 14 | 🌐 OpenEdge ABL | 📅 2018-08-07
-* stock\_market\_reinforcement\_learning - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient [\[Link\]](https://github.com/kh-kim/stock_market_reinforcement_learning) ⭐ 795 | 🐛 18 | 🌐 Python | 📅 2016-12-23
+* stock\_market\_reinforcement\_learning - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient [\[Link\]](https://github.com/kh-kim/stock_market_reinforcement_learning) ⭐ 796 | 🐛 18 | 🌐 Python | 📅 2016-12-23
 * Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [\[Link\]](https://github.com/samre12/deep-trading-agent) ⭐ 795 | 🐛 6 | 🌐 Python | 📅 2018-06-07
 * NeuralNetworkStocks - Using Python and keras to make stock predictions [\[Link\]](https://github.com/VivekPa/NeuralNetworkStocks) ⭐ 779 | 🐛 7 | 🌐 Python | 📅 2019-08-03
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [\[Link\]](https://github.com/NourozR/Stock-Price-Prediction-LSTM) ⭐ 618 | 🐛 2 | 🌐 Python | 📅 2023-03-30
@@ -167,4 +167,4 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
