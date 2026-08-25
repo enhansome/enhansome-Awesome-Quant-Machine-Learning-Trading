@@ -84,7 +84,7 @@
                 "last_commit": "2022-08-27T20:48:46Z",
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2326
+                "stars": 2327
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2021-01-17T09:07:36Z",
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2321
+                "stars": 2322
               }
             },
             {
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:17.038Z",
+    "last_updated": "2026-08-25T05:50:11.813Z",
     "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
     "original_repository_id": 156283359,
     "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
