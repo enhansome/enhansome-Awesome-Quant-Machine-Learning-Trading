@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-11T11:53:21Z",
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1910
+                "stars": 1912
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2021-08-28T22:13:14Z",
                 "owner": "Kismuz",
                 "repo": "btgym",
-                "stars": 1034
+                "stars": 1035
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2022-08-27T20:48:46Z",
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2328
+                "stars": 2329
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2021-10-09T19:16:40Z",
                 "owner": "ZhengyaoJiang",
                 "repo": "PGPortfolio",
-                "stars": 1848
+                "stars": 1849
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2018-06-26T09:22:29Z",
                 "owner": "filangelos",
                 "repo": "qtrader",
-                "stars": 479
+                "stars": 480
               }
             },
             {
@@ -517,9 +517,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:54:09.259Z",
-    "original_repository": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
-    "original_repository_id": 156283359,
+    "last_updated": "2026-08-27T11:26:58.034Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 156283359,
+      "language": null,
+      "last_commit": "2025-05-21T20:41:58Z",
+      "owner": "grananqvist",
+      "repo": "Awesome-Quant-Machine-Learning-Trading",
+      "stars": 4001
+    },
     "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
     "enhanced_repository": "enhansome/enhansome-Awesome-Quant-Machine-Learning-Trading",
     "enhanced_repository_description": null,
