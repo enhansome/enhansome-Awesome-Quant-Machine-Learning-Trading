@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1914,
+                "stars": 1915,
                 "topics": [
                   "backtest",
                   "backtesting-trading-strategies",
@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2330,
+                "stars": 2332,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -195,7 +195,7 @@
                 "open_issues": 37,
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2323,
+                "stars": 2322,
                 "topics": [
                   "deep-learning",
                   "finance",
@@ -362,7 +362,7 @@
                 "open_issues": 14,
                 "owner": "Rachnog",
                 "repo": "Deep-Trading",
-                "stars": 1463,
+                "stars": 1462,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -476,7 +476,7 @@
                 "open_issues": 2,
                 "owner": "NourozR",
                 "repo": "Stock-Price-Prediction-LSTM",
-                "stars": 618,
+                "stars": 617,
                 "topics": [
                   "algorithmic-trading",
                   "deep-learning",
@@ -506,7 +506,7 @@
                 "open_issues": 2,
                 "owner": "NourozR",
                 "repo": "Stock-Price-Prediction-LSTM",
-                "stars": 618,
+                "stars": 617,
                 "topics": [
                   "algorithmic-trading",
                   "deep-learning",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:01:24.131Z",
+    "last_updated": "2026-09-01T12:31:25.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
