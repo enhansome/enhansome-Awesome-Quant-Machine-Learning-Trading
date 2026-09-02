@@ -195,7 +195,7 @@
                 "open_issues": 37,
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2322,
+                "stars": 2323,
                 "topics": [
                   "deep-learning",
                   "finance",
@@ -265,7 +265,7 @@
                 "open_issues": 14,
                 "owner": "VivekPa",
                 "repo": "AIAlpha",
-                "stars": 1957,
+                "stars": 1958,
                 "topics": [
                   "algorithmic-trading",
                   "artificial-intelligence",
@@ -299,7 +299,7 @@
                 "open_issues": 43,
                 "owner": "BlackArbsCEO",
                 "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1955,
+                "stars": 1957,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -476,7 +476,7 @@
                 "open_issues": 2,
                 "owner": "NourozR",
                 "repo": "Stock-Price-Prediction-LSTM",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "algorithmic-trading",
                   "deep-learning",
@@ -506,7 +506,7 @@
                 "open_issues": 2,
                 "owner": "NourozR",
                 "repo": "Stock-Price-Prediction-LSTM",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "algorithmic-trading",
                   "deep-learning",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:31:25.464Z",
+    "last_updated": "2026-09-02T12:04:24.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 20,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4005,
+      "stars": 4009,
       "topics": [
         "awesome",
         "awesome-list",
