@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:03:42.491Z",
+    "last_updated": "2026-09-04T12:05:22.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 20,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4013,
+      "stars": 4014,
       "topics": [
         "awesome",
         "awesome-list",
