@@ -195,7 +195,7 @@
                 "open_issues": 37,
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2323,
+                "stars": 2324,
                 "topics": [
                   "deep-learning",
                   "finance",
@@ -228,7 +228,7 @@
                 "open_issues": 21,
                 "owner": "robertmartin8",
                 "repo": "MachineLearningStocks",
-                "stars": 1961,
+                "stars": 1960,
                 "topics": [
                   "algorithmic-trading",
                   "data-science",
@@ -803,7 +803,7 @@
                 "open_issues": 0,
                 "owner": "pnecchi",
                 "repo": "Thesis",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:05:22.050Z",
+    "last_updated": "2026-09-05T11:14:18.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",

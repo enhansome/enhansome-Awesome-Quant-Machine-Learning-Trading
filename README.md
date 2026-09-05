@@ -134,8 +134,8 @@ The selection of online courses for ML for trading is very poor in my opinion.
 ## Code
 
 * SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [\[Link\]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) ⭐ 2,332 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-08-27
-* bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [\[Link\]](https://github.com/achillesrasquinha/bulbea) ⭐ 2,323 | 🐛 37 | 🌐 Python | 📅 2021-01-17
-* MachineLearningStocks - Using python and scikit-learn to make stock predictions [\[Link\]](https://github.com/robertmartin8/MachineLearningStocks) ⭐ 1,961 | 🐛 21 | 🌐 Python | 📅 2024-06-17
+* bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [\[Link\]](https://github.com/achillesrasquinha/bulbea) ⭐ 2,324 | 🐛 37 | 🌐 Python | 📅 2021-01-17
+* MachineLearningStocks - Using python and scikit-learn to make stock predictions [\[Link\]](https://github.com/robertmartin8/MachineLearningStocks) ⭐ 1,960 | 🐛 21 | 🌐 Python | 📅 2024-06-17
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [\[Link\]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) ⭐ 1,958 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2022-12-08
 * AlphaAI - Use unsupervised and supervised learning to predict stocks [\[Link\]](https://github.com/VivekPa/AlphaAI) ⭐ 1,958 | 🐛 14 | 🌐 Python | 📅 2020-06-18
 * PGPortfolio - source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" [\[Link\]](https://github.com/ZhengyaoJiang/PGPortfolio) ⭐ 1,850 | 🐛 56 | 🌐 Python | 📅 2021-10-09
@@ -157,7 +157,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * DQN - Reinforcement Learning for finance [\[Link\]](https://github.com/jjakimoto/DQN) ⭐ 192 | 🐛 3 | 🌐 Python | 📅 2017-04-07
 * deep\_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [\[Link\]](https://github.com/deependersingla/deep_portfolio) ⭐ 171 | 🐛 4 | 🌐 Python | 📅 2017-09-27
 * SravB - Algorithmic trading using machine learning [\[Link\]](https://github.com/SravB/Algorithmic-Trading) ⭐ 118 | 🐛 0 | 🌐 Python | 📅 2017-12-27
-* Thesis - Reinforcement Learning for Automated Trading [\[Link\]](https://github.com/pnecchi/Thesis) ⭐ 90 | 🐛 0 | 🌐 TeX | 📅 2016-12-19
+* Thesis - Reinforcement Learning for Automated Trading [\[Link\]](https://github.com/pnecchi/Thesis) ⭐ 91 | 🐛 0 | 🌐 TeX | 📅 2016-12-19
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [\[Link\]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2026-07-30
 * Flow - High frequency AI based algorithmic trading module [\[Link\]](https://github.com/yazanobeidi/flow) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2016-05-14
 * stockPredictor - Predict stock movement with Machine Learning and Deep Learning algorithms [\[Link\]](https://github.com/Nazanin1369/stockPredictor) ⭐ 53 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-13
@@ -167,4 +167,4 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
