@@ -159,7 +159,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * SravB - Algorithmic trading using machine learning [\[Link\]](https://github.com/SravB/Algorithmic-Trading) ⭐ 118 | 🐛 0 | 🌐 Python | 📅 2017-12-27
 * Thesis - Reinforcement Learning for Automated Trading [\[Link\]](https://github.com/pnecchi/Thesis) ⭐ 91 | 🐛 0 | 🌐 TeX | 📅 2016-12-19
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [\[Link\]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2026-07-30
-* Flow - High frequency AI based algorithmic trading module [\[Link\]](https://github.com/yazanobeidi/flow) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2016-05-14
+* Flow - High frequency AI based algorithmic trading module [\[Link\]](https://github.com/yazanobeidi/flow) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2016-05-14
 * stockPredictor - Predict stock movement with Machine Learning and Deep Learning algorithms [\[Link\]](https://github.com/Nazanin1369/stockPredictor) ⭐ 53 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-13
 * Deep-Trading - Algorithmic Trading using RNN [\[Link\]](https://github.com/ha2emnomer/Deep-Trading) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2016-06-23
 * mlfinlab - Package for Advances in Financial Machine Learning [\[Link\]](https://github.com/hudson-and-thames)
@@ -167,4 +167,4 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
