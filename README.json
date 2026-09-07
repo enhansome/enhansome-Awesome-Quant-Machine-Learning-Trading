@@ -53,7 +53,7 @@
                 "open_issues": 11,
                 "owner": "Kismuz",
                 "repo": "btgym",
-                "stars": 1035,
+                "stars": 1034,
                 "topics": [
                   "a3c",
                   "advantage-actor-critic",
@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2332,
+                "stars": 2334,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -251,27 +251,6 @@
             },
             {
               "node_type": "item",
-              "title": "BlackArbsCEO - Advances in Financial Machine Learning Exercises [Link]",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado]",
-                "homepage": null,
-                "id": 131040588,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2022-12-08T01:39:23Z",
-                "open_issues": 43,
-                "owner": "BlackArbsCEO",
-                "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1958,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:22.449Z"
-            },
-            {
-              "node_type": "item",
               "title": "AlphaAI - Use unsupervised and supervised learning to predict stocks [Link]",
               "description": null,
               "children": [],
@@ -301,6 +280,27 @@
                   "wavelet-transform",
                   "yahoo-finance-api"
                 ]
+              },
+              "first_seen": "2026-08-28T19:23:22.449Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BlackArbsCEO - Advances in Financial Machine Learning Exercises [Link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado]",
+                "homepage": null,
+                "id": 131040588,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2022-12-08T01:39:23Z",
+                "open_issues": 43,
+                "owner": "BlackArbsCEO",
+                "repo": "Adv_Fin_ML_Exercises",
+                "stars": 1957,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
             },
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:37:21.755Z",
+    "last_updated": "2026-09-07T13:27:56.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
