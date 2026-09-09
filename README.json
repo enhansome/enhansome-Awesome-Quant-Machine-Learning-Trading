@@ -251,6 +251,27 @@
             },
             {
               "node_type": "item",
+              "title": "BlackArbsCEO - Advances in Financial Machine Learning Exercises [Link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado]",
+                "homepage": null,
+                "id": 131040588,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2022-12-08T01:39:23Z",
+                "open_issues": 43,
+                "owner": "BlackArbsCEO",
+                "repo": "Adv_Fin_ML_Exercises",
+                "stars": 1958,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:22.449Z"
+            },
+            {
+              "node_type": "item",
               "title": "AlphaAI - Use unsupervised and supervised learning to predict stocks [Link]",
               "description": null,
               "children": [],
@@ -285,27 +306,6 @@
             },
             {
               "node_type": "item",
-              "title": "BlackArbsCEO - Advances in Financial Machine Learning Exercises [Link]",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado]",
-                "homepage": null,
-                "id": 131040588,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2022-12-08T01:39:23Z",
-                "open_issues": 43,
-                "owner": "BlackArbsCEO",
-                "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1957,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:22.449Z"
-            },
-            {
-              "node_type": "item",
               "title": "PGPortfolio - source code of \"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem\" [Link]",
               "description": null,
               "children": [],
@@ -320,7 +320,7 @@
                 "open_issues": 56,
                 "owner": "ZhengyaoJiang",
                 "repo": "PGPortfolio",
-                "stars": 1850,
+                "stars": 1851,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -824,7 +824,7 @@
                 "open_issues": 5,
                 "owner": "squidKid-deluxe",
                 "repo": "QTradeX-Algo-Trading-SDK",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "ai",
                   "algorithmic-trading",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:06:10.333Z",
+    "last_updated": "2026-09-09T12:17:44.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -941,10 +941,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-21T20:41:58Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4015,
+      "stars": 4016,
       "topics": [
         "awesome",
         "awesome-list",
