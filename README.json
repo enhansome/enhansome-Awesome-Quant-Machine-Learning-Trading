@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "keon",
                 "repo": "deepstock",
-                "stars": 483,
+                "stars": 484,
                 "topics": [
                   "deep-learning",
                   "stock",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:42:49.881Z",
+    "last_updated": "2026-09-24T12:40:47.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
