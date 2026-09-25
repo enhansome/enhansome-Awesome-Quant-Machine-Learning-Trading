@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2343,
+                "stars": 2344,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -341,7 +341,7 @@
                 "open_issues": 11,
                 "owner": "deependersingla",
                 "repo": "deep_trader",
-                "stars": 1501,
+                "stars": 1502,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -434,7 +434,7 @@
                 "open_issues": 7,
                 "owner": "VivekPa",
                 "repo": "IntroNeuralNetworks",
-                "stars": 780,
+                "stars": 779,
                 "topics": [
                   "algorithmic-trading",
                   "data-science",
@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "keon",
                 "repo": "deepstock",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "deep-learning",
                   "stock",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:40:47.700Z",
+    "last_updated": "2026-09-25T12:42:59.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
