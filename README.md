@@ -126,7 +126,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ## Reinforcement Learning environments
 
-* :star: TradingGym [\[Link\]](https://github.com/Yvictor/TradingGym) ⭐ 1,921 | 🐛 11 | 🌐 Python | 📅 2024-02-11
+* :star: TradingGym [\[Link\]](https://github.com/Yvictor/TradingGym) ⭐ 1,920 | 🐛 11 | 🌐 Python | 📅 2024-02-11
 * btym [\[Link\]](https://github.com/Kismuz/btgym) ⭐ 1,035 | 🐛 11 | 🌐 Python | 📅 2021-08-28
 * Trading-Gym [\[Link\]](https://github.com/thedimlebowski/Trading-Gym) ⭐ 568 | 🐛 17 | 🌐 Python | 📅 2021-01-02
 * TradzQAI [\[Link\]](https://github.com/kkuette/TradzQAI) ⭐ 167 | 🐛 7 | 🌐 Python | 📅 2022-06-21
@@ -134,7 +134,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 ## Code
 
 * SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [\[Link\]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) ⭐ 2,344 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-08-27
-* bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [\[Link\]](https://github.com/achillesrasquinha/bulbea) ⭐ 2,331 | 🐛 37 | 🌐 Python | 📅 2021-01-17
+* bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [\[Link\]](https://github.com/achillesrasquinha/bulbea) ⭐ 2,332 | 🐛 37 | 🌐 Python | 📅 2021-01-17
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [\[Link\]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) ⭐ 1,970 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2022-12-08
 * AlphaAI - Use unsupervised and supervised learning to predict stocks [\[Link\]](https://github.com/VivekPa/AlphaAI) ⭐ 1,964 | 🐛 14 | 🌐 Python | 📅 2020-06-18
 * MachineLearningStocks - Using python and scikit-learn to make stock predictions [\[Link\]](https://github.com/robertmartin8/MachineLearningStocks) ⭐ 1,959 | 🐛 21 | 🌐 Python | 📅 2024-06-17
@@ -167,4 +167,4 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
