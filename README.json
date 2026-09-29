@@ -195,7 +195,7 @@
                 "open_issues": 37,
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2334,
+                "stars": 2335,
                 "topics": [
                   "deep-learning",
                   "finance",
@@ -228,7 +228,7 @@
                 "open_issues": 43,
                 "owner": "BlackArbsCEO",
                 "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1973,
+                "stars": 1972,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -536,7 +536,7 @@
                 "open_issues": 0,
                 "owner": "ucaiado",
                 "repo": "QLearning_Trading",
-                "stars": 517,
+                "stars": 516,
                 "topics": [
                   "agent-based-modeling",
                   "machine-learning",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:18:38.162Z",
+    "last_updated": "2026-09-29T13:58:45.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 23,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4031,
+      "stars": 4033,
       "topics": [
         "awesome",
         "awesome-list",
