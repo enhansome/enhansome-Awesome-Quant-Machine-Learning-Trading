@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": ":star: TradingGym [Link]",
-              "description": null,
+              "description": "Yvictor/TradingGym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -40,7 +40,7 @@
             {
               "node_type": "item",
               "title": "btym [Link]",
-              "description": null,
+              "description": "Kismuz/btgym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -80,7 +80,7 @@
             {
               "node_type": "item",
               "title": "Trading-Gym [Link]",
-              "description": null,
+              "description": "thedimlebowski/Trading-Gym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -101,7 +101,7 @@
             {
               "node_type": "item",
               "title": "TradzQAI [Link]",
-              "description": null,
+              "description": "kkuette/TradzQAI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [Link]",
-              "description": null,
+              "description": "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -182,7 +182,7 @@
             {
               "node_type": "item",
               "title": "bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [Link]",
-              "description": null,
+              "description": "achillesrasquinha/bulbea",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -215,7 +215,7 @@
             {
               "node_type": "item",
               "title": "BlackArbsCEO - Advances in Financial Machine Learning Exercises [Link]",
-              "description": null,
+              "description": "BlackArbsCEO/Adv_Fin_ML_Exercises",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -236,7 +236,7 @@
             {
               "node_type": "item",
               "title": "AlphaAI - Use unsupervised and supervised learning to predict stocks [Link]",
-              "description": null,
+              "description": "VivekPa/AIAlpha",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "MachineLearningStocks - Using python and scikit-learn to make stock predictions [Link]",
-              "description": null,
+              "description": "robertmartin8/MachineLearningStocks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -307,7 +307,7 @@
             {
               "node_type": "item",
               "title": "PGPortfolio - source code of \"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem\" [Link]",
-              "description": null,
+              "description": "ZhengyaoJiang/PGPortfolio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -328,7 +328,7 @@
             {
               "node_type": "item",
               "title": "deep_trader - Use reinforcement learning on stock market and agent tries to learn trading [Link]",
-              "description": null,
+              "description": "deependersingla/deep_trader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "Deep-Trading - Algorithmic trading with deep learning experiments [Link]",
-              "description": null,
+              "description": "Rachnog/Deep-Trading",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,7 +370,7 @@
             {
               "node_type": "item",
               "title": "Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [Link]",
-              "description": null,
+              "description": "samre12/deep-trading-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -400,7 +400,7 @@
             {
               "node_type": "item",
               "title": "stock_market_reinforcement_learning - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient [Link]",
-              "description": null,
+              "description": "kh-kim/stock_market_reinforcement_learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -421,7 +421,7 @@
             {
               "node_type": "item",
               "title": "NeuralNetworkStocks - Using Python and keras to make stock predictions [Link]",
-              "description": null,
+              "description": "VivekPa/IntroNeuralNetworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -463,7 +463,7 @@
             {
               "node_type": "item",
               "title": "Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [Link]",
-              "description": null,
+              "description": "NourozR/Stock-Price-Prediction-LSTM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -493,7 +493,7 @@
             {
               "node_type": "item",
               "title": "Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [Link]",
-              "description": null,
+              "description": "NourozR/Stock-Price-Prediction-LSTM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -523,7 +523,7 @@
             {
               "node_type": "item",
               "title": "QLearning_Trading - Learning to trade under the reinforcement learning framework [Link]",
-              "description": null,
+              "description": "ucaiado/QLearning_Trading",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "deepstock - Technical experimentations to beat the stock market using deep learning [Link]",
-              "description": null,
+              "description": "keon/deepstock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -575,7 +575,7 @@
             {
               "node_type": "item",
               "title": "qtrader - Reinforcement Learning for Portfolio Management [Link]",
-              "description": null,
+              "description": "filangelos/qtrader",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -602,7 +602,7 @@
             {
               "node_type": "item",
               "title": "timestocome - Test-stock-prediction-algorithms [Link]",
-              "description": null,
+              "description": "timestocome/Test-stock-prediction-algorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -623,7 +623,7 @@
             {
               "node_type": "item",
               "title": "Multidimensional-LSTM-BitCoin-Time-Series - Using multidimensional LSTM neural networks to create a forecast for Bitcoin price [Link]",
-              "description": null,
+              "description": "jaungiers/Multidimensional-LSTM-BitCoin-Time-Series",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,7 +644,7 @@
             {
               "node_type": "item",
               "title": "Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [Link]",
-              "description": null,
+              "description": "shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -665,7 +665,7 @@
             {
               "node_type": "item",
               "title": "deep-algotrading - deep learning techniques from regression to LSTM using financial data [Link]",
-              "description": null,
+              "description": "LiamConnell/deep-algotrading",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -693,7 +693,7 @@
             {
               "node_type": "item",
               "title": "marketneutral - pairs trading with ML [Link]",
-              "description": null,
+              "description": "marketneutral/pairs-trading-with-ML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -714,7 +714,7 @@
             {
               "node_type": "item",
               "title": "DQN - Reinforcement Learning for finance [Link]",
-              "description": null,
+              "description": "jjakimoto/DQN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -735,7 +735,7 @@
             {
               "node_type": "item",
               "title": "deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [Link]",
-              "description": null,
+              "description": "deependersingla/deep_portfolio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -756,7 +756,7 @@
             {
               "node_type": "item",
               "title": "SravB - Algorithmic trading using machine learning [Link]",
-              "description": null,
+              "description": "SravB/Algorithmic-Trading",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -790,7 +790,7 @@
             {
               "node_type": "item",
               "title": "Thesis - Reinforcement Learning for Automated Trading [Link]",
-              "description": null,
+              "description": "pnecchi/Thesis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -811,7 +811,7 @@
             {
               "node_type": "item",
               "title": "QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [Link]",
-              "description": null,
+              "description": "squidKid-deluxe/QTradeX-Algo-Trading-SDK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -852,7 +852,7 @@
             {
               "node_type": "item",
               "title": "Flow - High frequency AI based algorithmic trading module [Link]",
-              "description": null,
+              "description": "yazanobeidi/flow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -877,7 +877,7 @@
             {
               "node_type": "item",
               "title": "stockPredictor - Predict stock movement with Machine Learning and Deep Learning algorithms [Link]",
-              "description": null,
+              "description": "Nazanin1369/stockPredictor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -904,7 +904,7 @@
             {
               "node_type": "item",
               "title": "Deep-Trading - Algorithmic Trading using RNN [Link]",
-              "description": null,
+              "description": "ha2emnomer/Deep-Trading",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:47:24.224Z",
+    "last_updated": "2026-10-03T04:28:37.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 23,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4037,
+      "stars": 4035,
       "topics": [
         "awesome",
         "awesome-list",
