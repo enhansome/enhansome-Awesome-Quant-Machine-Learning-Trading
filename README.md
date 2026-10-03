@@ -135,7 +135,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 * SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [\[Link\]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) ⭐ 2,349 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-08-27
 * bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [\[Link\]](https://github.com/achillesrasquinha/bulbea) ⭐ 2,335 | 🐛 37 | 🌐 Python | 📅 2021-01-17
-* BlackArbsCEO - Advances in Financial Machine Learning Exercises [\[Link\]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) ⭐ 1,975 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2022-12-08
+* BlackArbsCEO - Advances in Financial Machine Learning Exercises [\[Link\]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) ⭐ 1,976 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2022-12-08
 * AlphaAI - Use unsupervised and supervised learning to predict stocks [\[Link\]](https://github.com/VivekPa/AlphaAI) ⭐ 1,967 | 🐛 14 | 🌐 Python | 📅 2020-06-18
 * MachineLearningStocks - Using python and scikit-learn to make stock predictions [\[Link\]](https://github.com/robertmartin8/MachineLearningStocks) ⭐ 1,960 | 🐛 21 | 🌐 Python | 📅 2024-06-17
 * PGPortfolio - source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" [\[Link\]](https://github.com/ZhengyaoJiang/PGPortfolio) ⭐ 1,852 | 🐛 56 | 🌐 Python | 📅 2021-10-09
