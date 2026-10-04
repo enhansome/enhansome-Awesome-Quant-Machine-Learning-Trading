@@ -126,26 +126,26 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ## Reinforcement Learning environments
 
-* :star: TradingGym [\[Link\]](https://github.com/Yvictor/TradingGym) ⭐ 1,921 | 🐛 11 | 🌐 Python | 📅 2024-02-11
+* :star: TradingGym [\[Link\]](https://github.com/Yvictor/TradingGym) ⭐ 1,920 | 🐛 11 | 🌐 Python | 📅 2024-02-11
 * btym [\[Link\]](https://github.com/Kismuz/btgym) ⭐ 1,035 | 🐛 11 | 🌐 Python | 📅 2021-08-28
 * Trading-Gym [\[Link\]](https://github.com/thedimlebowski/Trading-Gym) ⭐ 568 | 🐛 17 | 🌐 Python | 📅 2021-01-02
 * TradzQAI [\[Link\]](https://github.com/kkuette/TradzQAI) ⭐ 167 | 🐛 7 | 🌐 Python | 📅 2022-06-21
 
 ## Code
 
-* SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [\[Link\]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) ⭐ 2,349 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-08-27
+* SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [\[Link\]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) ⭐ 2,351 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-08-27
 * bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [\[Link\]](https://github.com/achillesrasquinha/bulbea) ⭐ 2,335 | 🐛 37 | 🌐 Python | 📅 2021-01-17
-* BlackArbsCEO - Advances in Financial Machine Learning Exercises [\[Link\]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) ⭐ 1,976 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2022-12-08
+* BlackArbsCEO - Advances in Financial Machine Learning Exercises [\[Link\]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) ⭐ 1,975 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2022-12-08
 * AlphaAI - Use unsupervised and supervised learning to predict stocks [\[Link\]](https://github.com/VivekPa/AlphaAI) ⭐ 1,967 | 🐛 14 | 🌐 Python | 📅 2020-06-18
 * MachineLearningStocks - Using python and scikit-learn to make stock predictions [\[Link\]](https://github.com/robertmartin8/MachineLearningStocks) ⭐ 1,960 | 🐛 21 | 🌐 Python | 📅 2024-06-17
 * PGPortfolio - source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" [\[Link\]](https://github.com/ZhengyaoJiang/PGPortfolio) ⭐ 1,852 | 🐛 56 | 🌐 Python | 📅 2021-10-09
-* deep\_trader - Use reinforcement learning on stock market and agent tries to learn trading [\[Link\]](https://github.com/deependersingla/deep_trader) ⭐ 1,502 | 🐛 11 | 🌐 Python | 📅 2018-01-22
+* deep\_trader - Use reinforcement learning on stock market and agent tries to learn trading [\[Link\]](https://github.com/deependersingla/deep_trader) ⭐ 1,503 | 🐛 11 | 🌐 Python | 📅 2018-01-22
 * Deep-Trading - Algorithmic trading with deep learning experiments [\[Link\]](https://github.com/Rachnog/Deep-Trading) ⭐ 1,464 | 🐛 14 | 🌐 OpenEdge ABL | 📅 2018-08-07
 * Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [\[Link\]](https://github.com/samre12/deep-trading-agent) ⭐ 796 | 🐛 6 | 🌐 Python | 📅 2018-06-07
 * stock\_market\_reinforcement\_learning - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient [\[Link\]](https://github.com/kh-kim/stock_market_reinforcement_learning) ⭐ 795 | 🐛 18 | 🌐 Python | 📅 2016-12-23
 * NeuralNetworkStocks - Using Python and keras to make stock predictions [\[Link\]](https://github.com/VivekPa/NeuralNetworkStocks) ⭐ 778 | 🐛 7 | 🌐 Python | 📅 2019-08-03
-* Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [\[Link\]](https://github.com/NourozR/Stock-Price-Prediction-LSTM) ⭐ 618 | 🐛 2 | 🌐 Python | 📅 2023-03-30
-* Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [\[Link\]](https://github.com/NourozR/Stock-Price-Prediction-LSTM) ⭐ 618 | 🐛 2 | 🌐 Python | 📅 2023-03-30
+* Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [\[Link\]](https://github.com/NourozR/Stock-Price-Prediction-LSTM) ⭐ 617 | 🐛 2 | 🌐 Python | 📅 2023-03-30
+* Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [\[Link\]](https://github.com/NourozR/Stock-Price-Prediction-LSTM) ⭐ 617 | 🐛 2 | 🌐 Python | 📅 2023-03-30
 * QLearning\_Trading - Learning to trade under the reinforcement learning framework [\[Link\]](https://github.com/ucaiado/QLearning_Trading) ⭐ 516 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-10-15
 * deepstock - Technical experimentations to beat the stock market using deep learning [\[Link\]](https://github.com/keon/deepstock) ⭐ 485 | 🐛 2 | 🌐 Python | 📅 2017-03-04
 * qtrader - Reinforcement Learning for Portfolio Management [\[Link\]](https://github.com/filangel/qtrader) ⚠️ Archived
@@ -158,7 +158,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * deep\_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [\[Link\]](https://github.com/deependersingla/deep_portfolio) ⭐ 171 | 🐛 4 | 🌐 Python | 📅 2017-09-27
 * SravB - Algorithmic trading using machine learning [\[Link\]](https://github.com/SravB/Algorithmic-Trading) ⭐ 118 | 🐛 0 | 🌐 Python | 📅 2017-12-27
 * Thesis - Reinforcement Learning for Automated Trading [\[Link\]](https://github.com/pnecchi/Thesis) ⭐ 91 | 🐛 0 | 🌐 TeX | 📅 2016-12-19
-* QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [\[Link\]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) ⭐ 85 | 🐛 5 | 🌐 Python | 📅 2026-07-30
+* QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [\[Link\]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) ⭐ 87 | 🐛 5 | 🌐 Python | 📅 2026-07-30
 * Flow - High frequency AI based algorithmic trading module [\[Link\]](https://github.com/yazanobeidi/flow) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2016-05-14
 * stockPredictor - Predict stock movement with Machine Learning and Deep Learning algorithms [\[Link\]](https://github.com/Nazanin1369/stockPredictor) ⭐ 53 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-13
 * Deep-Trading - Algorithmic Trading using RNN [\[Link\]](https://github.com/ha2emnomer/Deep-Trading) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2016-06-23
@@ -167,4 +167,4 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
