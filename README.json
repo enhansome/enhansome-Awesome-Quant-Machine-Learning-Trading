@@ -362,7 +362,7 @@
                 "open_issues": 14,
                 "owner": "Rachnog",
                 "repo": "Deep-Trading",
-                "stars": 1462,
+                "stars": 1463,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "keon",
                 "repo": "deepstock",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "deep-learning",
                   "stock",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T15:53:19.013Z",
+    "last_updated": "2026-10-06T10:37:30.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 23,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4035,
+      "stars": 4036,
       "topics": [
         "awesome",
         "awesome-list",
