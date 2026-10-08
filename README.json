@@ -53,7 +53,7 @@
                 "open_issues": 11,
                 "owner": "Kismuz",
                 "repo": "btgym",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": [
                   "a3c",
                   "advantage-actor-critic",
@@ -228,7 +228,7 @@
                 "open_issues": 43,
                 "owner": "BlackArbsCEO",
                 "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1976,
+                "stars": 1975,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:25:43.890Z",
+    "last_updated": "2026-10-08T14:31:27.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 23,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4038,
+      "stars": 4042,
       "topics": [
         "awesome",
         "awesome-list",
