@@ -126,8 +126,8 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ## Reinforcement Learning environments
 
-* :star: TradingGym [\[Link\]](https://github.com/Yvictor/TradingGym) ⭐ 1,922 | 🐛 11 | 🌐 Python | 📅 2024-02-11
-* btym [\[Link\]](https://github.com/Kismuz/btgym) ⭐ 1,036 | 🐛 11 | 🌐 Python | 📅 2021-08-28
+* :star: TradingGym [\[Link\]](https://github.com/Yvictor/TradingGym) ⭐ 1,923 | 🐛 11 | 🌐 Python | 📅 2024-02-11
+* btym [\[Link\]](https://github.com/Kismuz/btgym) ⭐ 1,037 | 🐛 11 | 🌐 Python | 📅 2021-08-28
 * Trading-Gym [\[Link\]](https://github.com/thedimlebowski/Trading-Gym) ⭐ 568 | 🐛 17 | 🌐 Python | 📅 2021-01-02
 * TradzQAI [\[Link\]](https://github.com/kkuette/TradzQAI) ⭐ 167 | 🐛 7 | 🌐 Python | 📅 2022-06-21
 
@@ -167,4 +167,4 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

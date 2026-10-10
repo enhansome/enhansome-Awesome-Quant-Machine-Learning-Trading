@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1922,
+                "stars": 1923,
                 "topics": [
                   "backtest",
                   "backtesting-trading-strategies",
@@ -53,7 +53,7 @@
                 "open_issues": 11,
                 "owner": "Kismuz",
                 "repo": "btgym",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "a3c",
                   "advantage-actor-critic",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:18:22.718Z",
+    "last_updated": "2026-10-10T13:33:09.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
