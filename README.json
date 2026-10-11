@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2355,
+                "stars": 2356,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -195,7 +195,7 @@
                 "open_issues": 37,
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2336,
+                "stars": 2338,
                 "topics": [
                   "deep-learning",
                   "finance",
@@ -228,7 +228,7 @@
                 "open_issues": 43,
                 "owner": "BlackArbsCEO",
                 "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1975,
+                "stars": 1974,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -283,7 +283,7 @@
                 "open_issues": 21,
                 "owner": "robertmartin8",
                 "repo": "MachineLearningStocks",
-                "stars": 1961,
+                "stars": 1962,
                 "topics": [
                   "algorithmic-trading",
                   "data-science",
@@ -341,7 +341,7 @@
                 "open_issues": 11,
                 "owner": "deependersingla",
                 "repo": "deep_trader",
-                "stars": 1505,
+                "stars": 1506,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -413,7 +413,7 @@
                 "open_issues": 18,
                 "owner": "kh-kim",
                 "repo": "stock_market_reinforcement_learning",
-                "stars": 795,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:33:09.841Z",
+    "last_updated": "2026-10-11T13:55:47.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 23,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4043,
+      "stars": 4045,
       "topics": [
         "awesome",
         "awesome-list",
