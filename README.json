@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2356,
+                "stars": 2355,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -249,7 +249,7 @@
                 "open_issues": 14,
                 "owner": "VivekPa",
                 "repo": "AIAlpha",
-                "stars": 1967,
+                "stars": 1968,
                 "topics": [
                   "algorithmic-trading",
                   "artificial-intelligence",
@@ -362,38 +362,8 @@
                 "open_issues": 14,
                 "owner": "Rachnog",
                 "repo": "Deep-Trading",
-                "stars": 1464,
+                "stars": 1463,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:22.449Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [Link]",
-              "description": "samre12/deep-trading-agent",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Deep Reinforcement Learning based Trading Agent for Bitcoin",
-                "homepage": null,
-                "id": 104375957,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2018-06-07T09:12:10Z",
-                "open_issues": 6,
-                "owner": "samre12",
-                "repo": "deep-trading-agent",
-                "stars": 797,
-                "topics": [
-                  "agent",
-                  "artificial-intelligence",
-                  "bitcoin",
-                  "deep-q-network",
-                  "deep-reinforcement-learning",
-                  "deep-sense",
-                  "recurrent-neural-networks",
-                  "trading"
-                ]
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
             },
@@ -415,6 +385,36 @@
                 "repo": "stock_market_reinforcement_learning",
                 "stars": 796,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:22.449Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [Link]",
+              "description": "samre12/deep-trading-agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Deep Reinforcement Learning based Trading Agent for Bitcoin",
+                "homepage": null,
+                "id": 104375957,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2018-06-07T09:12:10Z",
+                "open_issues": 6,
+                "owner": "samre12",
+                "repo": "deep-trading-agent",
+                "stars": 796,
+                "topics": [
+                  "agent",
+                  "artificial-intelligence",
+                  "bitcoin",
+                  "deep-q-network",
+                  "deep-reinforcement-learning",
+                  "deep-sense",
+                  "recurrent-neural-networks",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
             },
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:55:47.199Z",
+    "last_updated": "2026-10-12T16:40:25.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 23,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4045,
+      "stars": 4044,
       "topics": [
         "awesome",
         "awesome-list",
