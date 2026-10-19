@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2358,
+                "stars": 2360,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -383,7 +383,7 @@
                 "open_issues": 18,
                 "owner": "kh-kim",
                 "repo": "stock_market_reinforcement_learning",
-                "stars": 796,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:01:18.129Z",
+    "last_updated": "2026-10-19T14:35:33.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 24,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4070,
+      "stars": 4071,
       "topics": [
         "awesome",
         "awesome-list",
