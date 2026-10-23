@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1924,
+                "stars": 1925,
                 "topics": [
                   "backtest",
                   "backtesting-trading-strategies",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T12:54:40.494Z",
+    "last_updated": "2026-10-23T12:34:09.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 24,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4076,
+      "stars": 4078,
       "topics": [
         "awesome",
         "awesome-list",
