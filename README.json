@@ -195,7 +195,7 @@
                 "open_issues": 37,
                 "owner": "achillesrasquinha",
                 "repo": "bulbea",
-                "stars": 2341,
+                "stars": 2343,
                 "topics": [
                   "deep-learning",
                   "finance",
@@ -280,7 +280,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-06-17T22:43:10Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "robertmartin8",
                 "repo": "MachineLearningStocks",
                 "stars": 1966,
@@ -341,7 +341,7 @@
                 "open_issues": 11,
                 "owner": "deependersingla",
                 "repo": "deep_trader",
-                "stars": 1507,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -536,7 +536,7 @@
                 "open_issues": 0,
                 "owner": "ucaiado",
                 "repo": "QLearning_Trading",
-                "stars": 517,
+                "stars": 516,
                 "topics": [
                   "agent-based-modeling",
                   "machine-learning",
@@ -824,7 +824,7 @@
                 "open_issues": 5,
                 "owner": "squidKid-deluxe",
                 "repo": "QTradeX-Algo-Trading-SDK",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "ai",
                   "algorithmic-trading",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:57:23.191Z",
+    "last_updated": "2026-10-29T14:07:49.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -941,7 +941,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-21T20:41:58Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
       "stars": 4087,
