@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1926,
+                "stars": 1927,
                 "topics": [
                   "backtest",
                   "backtesting-trading-strategies",
@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2366,
+                "stars": 2368,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -283,7 +283,7 @@
                 "open_issues": 22,
                 "owner": "robertmartin8",
                 "repo": "MachineLearningStocks",
-                "stars": 1967,
+                "stars": 1968,
                 "topics": [
                   "algorithmic-trading",
                   "data-science",
@@ -383,7 +383,7 @@
                 "open_issues": 18,
                 "owner": "kh-kim",
                 "repo": "stock_market_reinforcement_learning",
-                "stars": 799,
+                "stars": 800,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -769,7 +769,7 @@
                 "open_issues": 0,
                 "owner": "SravB",
                 "repo": "Algorithmic-Trading",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "algorithmic-trading",
                   "data-mining",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:34:41.215Z",
+    "last_updated": "2026-11-01T14:13:25.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -941,10 +941,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-21T20:41:58Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4091,
+      "stars": 4093,
       "topics": [
         "awesome",
         "awesome-list",
