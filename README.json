@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": [
                   "backtest",
                   "backtesting-trading-strategies",
@@ -93,7 +93,7 @@
                 "open_issues": 17,
                 "owner": "thedimlebowski",
                 "repo": "Trading-Gym",
-                "stars": 569,
+                "stars": 568,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2375,
+                "stars": 2374,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -362,7 +362,7 @@
                 "open_issues": 14,
                 "owner": "Rachnog",
                 "repo": "Deep-Trading",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:14:25.680Z",
+    "last_updated": "2026-11-09T17:22:57.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 28,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4101,
+      "stars": 4106,
       "topics": [
         "awesome",
         "awesome-list",
