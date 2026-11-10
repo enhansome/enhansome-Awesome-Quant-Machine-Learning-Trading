@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2374,
+                "stars": 2373,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -228,7 +228,7 @@
                 "open_issues": 43,
                 "owner": "BlackArbsCEO",
                 "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1978,
+                "stars": 1979,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -434,7 +434,7 @@
                 "open_issues": 7,
                 "owner": "VivekPa",
                 "repo": "IntroNeuralNetworks",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "algorithmic-trading",
                   "data-science",
@@ -588,7 +588,7 @@
                 "open_issues": 1,
                 "owner": "filangelos",
                 "repo": "qtrader",
-                "stars": 479,
+                "stars": 480,
                 "topics": [
                   "algorithmic-trading",
                   "python",
@@ -803,7 +803,7 @@
                 "open_issues": 5,
                 "owner": "squidKid-deluxe",
                 "repo": "QTradeX-Algo-Trading-SDK",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "ai",
                   "algorithmic-trading",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:22:57.602Z",
+    "last_updated": "2026-11-10T15:31:16.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -956,7 +956,7 @@
         "trading-strategies"
       ]
     },
-    "original_repository_sha": "9b9c3c0fafa7ea1b17aca8f715741b8b8cc55977",
+    "original_repository_sha": null,
     "enhanced_repository": "enhansome/enhansome-Awesome-Quant-Machine-Learning-Trading",
     "enhanced_repository_description": null,
     "title": "Awesome-Quant-Machine-Learning-Trading with stars"
