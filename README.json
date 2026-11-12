@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1930,
+                "stars": 1931,
                 "topics": [
                   "backtest",
                   "backtesting-trading-strategies",
@@ -53,7 +53,7 @@
                 "open_issues": 11,
                 "owner": "Kismuz",
                 "repo": "btgym",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "a3c",
                   "advantage-actor-critic",
@@ -154,7 +154,7 @@
                 "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2373,
+                "stars": 2372,
                 "topics": [
                   "algorithmic-trading",
                   "backtesting-trading-strategies",
@@ -283,7 +283,7 @@
                 "open_issues": 21,
                 "owner": "robertmartin8",
                 "repo": "MachineLearningStocks",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "algorithmic-trading",
                   "data-science",
@@ -320,7 +320,7 @@
                 "open_issues": 56,
                 "owner": "ZhengyaoJiang",
                 "repo": "PGPortfolio",
-                "stars": 1854,
+                "stars": 1855,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -341,7 +341,7 @@
                 "open_issues": 11,
                 "owner": "deependersingla",
                 "repo": "deep_trader",
-                "stars": 1508,
+                "stars": 1509,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -362,7 +362,7 @@
                 "open_issues": 14,
                 "owner": "Rachnog",
                 "repo": "Deep-Trading",
-                "stars": 1465,
+                "stars": 1466,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -404,7 +404,7 @@
                 "open_issues": 6,
                 "owner": "samre12",
                 "repo": "deep-trading-agent",
-                "stars": 797,
+                "stars": 798,
                 "topics": [
                   "agent",
                   "artificial-intelligence",
@@ -636,7 +636,7 @@
                 "open_issues": 8,
                 "owner": "jaungiers",
                 "repo": "Multidimensional-LSTM-BitCoin-Time-Series",
-                "stars": 341,
+                "stars": 342,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -678,7 +678,7 @@
                 "open_issues": 0,
                 "owner": "LiamConnell",
                 "repo": "deep-algotrading",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "deep-learning",
                   "lstm",
@@ -727,7 +727,7 @@
                 "open_issues": 3,
                 "owner": "jjakimoto",
                 "repo": "DQN",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -769,7 +769,7 @@
                 "open_issues": 0,
                 "owner": "SravB",
                 "repo": "Algorithmic-Trading",
-                "stars": 119,
+                "stars": 118,
                 "topics": [
                   "algorithmic-trading",
                   "data-mining",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:03:54.194Z",
+    "last_updated": "2026-11-12T15:55:01.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -941,10 +941,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-21T20:41:58Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4106,
+      "stars": 4121,
       "topics": [
         "awesome",
         "awesome-list",
