@@ -228,7 +228,7 @@
                 "open_issues": 43,
                 "owner": "BlackArbsCEO",
                 "repo": "Adv_Fin_ML_Exercises",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:22.449Z"
@@ -283,7 +283,7 @@
                 "open_issues": 21,
                 "owner": "robertmartin8",
                 "repo": "MachineLearningStocks",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "algorithmic-trading",
                   "data-science",
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:40:36.861Z",
+    "last_updated": "2026-11-16T16:56:23.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
@@ -944,7 +944,7 @@
       "open_issues": 28,
       "owner": "grananqvist",
       "repo": "Awesome-Quant-Machine-Learning-Trading",
-      "stars": 4139,
+      "stars": 4142,
       "topics": [
         "awesome",
         "awesome-list",
