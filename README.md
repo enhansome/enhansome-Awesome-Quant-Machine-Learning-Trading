@@ -127,7 +127,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 ## Reinforcement Learning environments
 
 * :star: TradingGym [\[Link\]](https://github.com/Yvictor/TradingGym) ⭐ 1,932 | 🐛 11 | 🌐 Python | 📅 2024-02-11
-* btym [\[Link\]](https://github.com/Kismuz/btgym) ⭐ 1,036 | 🐛 11 | 🌐 Python | 📅 2021-08-28
+* btym [\[Link\]](https://github.com/Kismuz/btgym) ⭐ 1,037 | 🐛 11 | 🌐 Python | 📅 2021-08-28
 * Trading-Gym [\[Link\]](https://github.com/thedimlebowski/Trading-Gym) ⭐ 568 | 🐛 17 | 🌐 Python | 📅 2021-01-02
 * TradzQAI [\[Link\]](https://github.com/kkuette/TradzQAI) ⭐ 167 | 🐛 7 | 🌐 Python | 📅 2022-06-21
 
@@ -149,7 +149,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * QLearning\_Trading - Learning to trade under the reinforcement learning framework [\[Link\]](https://github.com/ucaiado/QLearning_Trading) ⭐ 516 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-10-15
 * deepstock - Technical experimentations to beat the stock market using deep learning [\[Link\]](https://github.com/keon/deepstock) ⭐ 487 | 🐛 2 | 🌐 Python | 📅 2017-03-04
 * qtrader - Reinforcement Learning for Portfolio Management [\[Link\]](https://github.com/filangel/qtrader) ⚠️ Archived
-* timestocome - Test-stock-prediction-algorithms [\[Link\]](https://github.com/timestocome/Test-stock-prediction-algorithms) ⭐ 434 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-08-28
+* timestocome - Test-stock-prediction-algorithms [\[Link\]](https://github.com/timestocome/Test-stock-prediction-algorithms) ⭐ 433 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-08-28
 * Multidimensional-LSTM-BitCoin-Time-Series - Using multidimensional LSTM neural networks to create a forecast for Bitcoin price [\[Link\]](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series) ⭐ 342 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2017-07-15
 * Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [\[Link\]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading) ⭐ 323 | 🐛 3 | 🌐 Python | 📅 2017-05-18
 * deep-algotrading - deep learning techniques from regression to LSTM using financial data [\[Link\]](https://github.com/LiamConnell/deep-algotrading) ⭐ 248 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-10
@@ -167,4 +167,4 @@ The selection of online courses for ML for trading is very poor in my opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
